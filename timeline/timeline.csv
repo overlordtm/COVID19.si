@@ -1,5 +1,5 @@
-,,Testiranje,Potrjeni,Stanje,,Izvor okužbe,,,,,Po lokaciji,,,,,,,,Healthcare workers,,,,,
-Dan,Datum,testov,okuženih,ICU,Death,ITA,AUT,ESP,SLO,Total,LJ,NM,MB,MS,PO,KP,N,SK,UKC-LJ,UKC-MB,ZD-Metlika,B-MS,B-NG,Total
+,,Tests,Confirmed,Situation,,Source of infection,,,,,By location,,,,,,,,Healthcare workers,,,,,
+Dan,Datum,Tests made,Confirmed cases,ICU,Death,ITA,AUT,ESP,SLO,Total,LJ,NM,MB,MS,PO,KP,N,SK,UKC-LJ,UKC-MB,ZD-Metlika,B-MS,B-NG,Total
 1,"2020-03-04,Wed",352,1,,,1,,,,1,1,,,,,,,1,,,,,,
 2,"2020-03-05,Thu",433,3,,,3,,,,3,3,,,,,,,3,,,,,,
 3,"2020-03-06,Fri",498,7,,,7,,,,7,5,1,,1,,,,7,,1,1,,,2
