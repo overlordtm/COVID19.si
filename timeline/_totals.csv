@@ -1,4 +1,4 @@
-,Date,Tests made,Confirmed cases,Hospitalized,ICU,Death,ITA,AUT,ESP,SLO,LJ,NM,MB,MS,CE,PO,KP,NG,KR,UKC-LJ,UKC-MB,ZD-Metlika,B-MS,B-NG
+,Date,Tests made,Confirmed cases,Hospitalized,ICU,Death,source_ITA,source_AUT,source_ESP,source_SLO,LJ,NM,MB,MS,CE,PO,KP,NG,KR,UKC-LJ,UKC-MB,ZD-Metlika,B-MS,B-NG
 0,2020-03-04,352.0,1,,nan,,1,nan,,,1,nan,,,,,,,,,nan,,,
 1,2020-03-05,433.0,3,,nan,,3,nan,,,3,nan,,,,,,,,,nan,,,
 2,2020-03-06,498.0,7,,nan,,7,nan,,,5,1,,1.0,,,,,,,1,1.0,,
