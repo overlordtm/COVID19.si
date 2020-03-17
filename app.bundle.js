@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("function component() {\n  const element = document.createElement('div');\n\n  // Lodash, currently included via a script, is required for this line to work\n  element.innerHTML = \"Hello world!\"\n\n  return element;\n}\n\ndocument.body.appendChild(component());\n\n//# sourceURL=webpack:///./src/index.js?");
+eval("function component() {\n  const element = document.createElement('div');\n\n  // Lodash, currently included via a script, is required for this line to work\n  element.innerHTML = \"Hello world2!\"\n\n  return element;\n}\n\ndocument.body.appendChild(component());\n\n//# sourceURL=webpack:///./src/index.js?");
 
 /***/ })
 
