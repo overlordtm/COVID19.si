@@ -58,7 +58,6 @@ def sheet2csv(id, range, filename="export.csv"):
 
             # pad each row with empty values
             row += [""] * (len(cols) - len(row))
-            print(row)
 
             csvrow = []
             for col in cols:
