@@ -40,7 +40,8 @@ def pad(lst, l):
     if len(lst) == 0:
         return [""] * l
     if len(lst) < l:
-        return lst.extend([""] * (l - len(lst)))
+        lst.extend([""] * (l - len(lst)))
+        return lst
     else:
         return lst
 
@@ -86,9 +87,10 @@ def import_cases(filename="covid19-slovenia-cases.csv"):
         for row in values:
             try:
                 row[1] = parse_date(row[1])
-                writer.writerow(row)
+                prow = pad(row, 9)
+                writer.writerow(prow)
             except Exception as e:
-                print("import_cases: Failed to parse row: {}".format(row))
+                print("import_cases: Failed to parse row: {} {}".format(row, e))
 
 
 def import_stats(filename="covid19-slovenia-full.csv"):
