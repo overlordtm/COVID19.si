@@ -36,6 +36,22 @@ def cell_index(letter):
         raise Exception("Unsupported cell index")
 
 
+def pad(lst, l):
+    if len(lst) == 0:
+        return [""] * l
+    if len(lst) < l:
+        return lst.extend([""] * (l - len(lst)))
+    else:
+        return lst
+
+
+def get_range(row, col_start, col_end):
+    desired_len = cell_index(col_end) - cell_index(col_start) + 1
+    data = row[cell_index(col_start) : cell_index(col_end) + 1]
+    padded = pad(data, desired_len)
+    return padded
+
+
 def import_cases(filename="covid19-slovenia-cases.csv"):
     result = (
         sheet.values()
@@ -137,6 +153,8 @@ def import_stats(filename="covid19-slovenia-full.csv"):
             writer = csv.writer(csvfile, quoting=csv.QUOTE_MINIMAL)
 
             writer.writerow(fieldnames)
+            # print(len(fieldnames), fieldnames)
+
             for row in values:
                 day_of_outbreak = row[cell_index("A")]
                 date = parse_date(row[cell_index("B")])
@@ -151,15 +169,15 @@ def import_stats(filename="covid19-slovenia-full.csv"):
                 count_in_icu_bad = row[cell_index("O")]
                 deaths_cum = row[cell_index("P")]
 
-                reginal_data = row[cell_index("Z") : cell_index("AL") + 1]
+                regional_data = get_range(row, "Z", "AL")
 
-                by_age = row[cell_index("AN") : cell_index("AR") + 1]
-                by_age_female = row[cell_index("AT") : cell_index("AX") + 1]
-                by_age_male = row[cell_index("AZ") : cell_index("BD") + 1]
+                by_age = get_range(row, "AN", "AR")
+                by_age_female = get_range(row, "AT", "AX")
+                by_age_male = get_range(row, "AZ", "BD")
 
-                by_source = row[cell_index("BF") : cell_index("BI") + 1]
+                by_source = get_range(row, "BF", "BI")
 
-                workers = row[cell_index("BK") : cell_index("BO") + 1]
+                workers = get_range(row, "BK", "BO")
 
                 csvrow = (
                     [
@@ -176,13 +194,21 @@ def import_stats(filename="covid19-slovenia-full.csv"):
                         count_in_icu_bad,
                         deaths_cum,
                     ]
-                    + reginal_data
+                    + regional_data
                     + by_age
                     + by_age_female
                     + by_age_male
                     + by_source
+                    + workers
                 )
-
+                # print(
+                #     len(regional_data),
+                #     len(by_age),
+                #     len(by_age_female),
+                #     len(by_age_male),
+                #     len(by_source),
+                #     len(workers),
+                # )
                 writer.writerow(csvrow)
 
 
