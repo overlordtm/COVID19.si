@@ -8,6 +8,8 @@ import os
 import os.path
 import sys
 
+# old legacy stuff
+
 
 def api_key():
     api_key = os.environ["GOOGLE_API_KEY"]
