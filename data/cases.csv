@@ -1,0 +1,254 @@
+case #,date,region,city,source,desc,cluster,state,news_source
+1,,LJ,,Maroko (Italija),motorist 60 let,LJ-M,,https://www.rtvslo.si/zdravje/novi-koronavirus/prvi-potrjeni-primer-okuzbe-pri-nas-okuzeni-prisel-iz-maroka-prek-italije/516153
+2,,LJ,,Maroko (Italija),"motorist, sopotnik",LJ-M,,https://www.rtvslo.si/zdravje/novi-koronavirus/cetrta-in-peta-okuzba-ki-nista-povezani-s-prvimi-tremi-sesti-okuzeni-je-mlajsi-moski/516239
+3,,LJ,,Maroko (Italija),"motorist, v sobi z #1",LJ-M,,https://www.rtvslo.si/zdravje/novi-koronavirus/cetrta-in-peta-okuzba-ki-nista-povezani-s-prvimi-tremi-sesti-okuzeni-je-mlajsi-moski/516239
+4,,LJ,,Italija,"par, potnika po Italiji",LJ-P,,https://www.rtvslo.si/zdravje/novi-koronavirus/cetrta-in-peta-okuzba-ki-nista-povezani-s-prvimi-tremi-sesti-okuzeni-je-mlajsi-moski/516239
+5,,LJ,,Italija,"par, potnika po Italiji",LJ-P,,https://www.rtvslo.si/zdravje/novi-koronavirus/cetrta-in-peta-okuzba-ki-nista-povezani-s-prvimi-tremi-sesti-okuzeni-je-mlajsi-moski/516239
+6,,MB,,Italija,"farmacevt iz UKC-MB, 32 let",MB-F,,https://www.vecer.com/prvi-okuzeni-s-koronavirusom-bil-v-stiku-z-20-sopotniki-od-tega-16-slovenci-in-tremi-hrvati-v-zd-vic-bil-v-stiku-s-7-osebami-10137888
+7,,MB,,Italija,soproga farmacevta iz UKC-MB,MB-F,,https://www.dnevnik.si/1042923990/slovenija/okuzeni-ljubljancan-je-bil-v-maroku-s-skupino-turistov
+8,,NM,Metlika,Italija,"zdravnik ZD-M, 300+ kontaktov",NM-Z,,https://www.dnevnik.si/1042923990/slovenija/okuzeni-ljubljancan-je-bil-v-maroku-s-skupino-turistov
+9,,NM,Metlika,Italija,sopotnik zdravnika,NM-Z,,https://www.rtvslo.si/zdravje/novi-koronavirus/prepovedane-prireditve-v-zaprtih-prostorih-z-vec-kot-500-obiskovalci/516470
+10,,LJ,,Italija,"moški, Benetke",,,https://www.rtvslo.si/zdravje/novi-koronavirus/prepovedane-prireditve-v-zaprtih-prostorih-z-vec-kot-500-obiskovalci/516470
+11,,LJ,,Avstrija,moški iz AUT,,,https://www.rtvslo.si/zdravje/novi-koronavirus/prepovedane-prireditve-v-zaprtih-prostorih-z-vec-kot-500-obiskovalci/516470
+12,,MB,,Španija (Italija),moški z družino iz Špa,,,https://www.rtvslo.si/zdravje/novi-koronavirus/prepovedane-prireditve-v-zaprtih-prostorih-z-vec-kot-500-obiskovalci/516470
+13,,NM,Metlika,Slo (Italija),"medicinska sestra, ZD-M",NM-Z,,https://moja-dolenjska.si/metlika-po-zanesljivih-podatkih-okuzeni-tudi-resevalec-in-dve-medicinski-sestri/
+14,,NM,Metlika,Slo (Italija),"medicinska sestra, ZD-M",NM-Z,,https://moja-dolenjska.si/metlika-po-zanesljivih-podatkih-okuzeni-tudi-resevalec-in-dve-medicinski-sestri/
+15,,NM,Metlika,Slo (Italija),"reševalec, ZD-M",NM-Z,,https://www.rtvslo.si/zdravje/novi-koronavirus/stroka-zatrjuje-se-zdalec-nimamo-epidemije/516528
+16,,KP,Lucija,Švica,"ženska, 31 let, Lucija",,,https://www.rtvslo.si/zdravje/novi-koronavirus/stroka-zatrjuje-se-zdalec-nimamo-epidemije/516528
+17,,LJ,,Slo (Maroko),vodstvo ginekologija UKC-LJ,LJ-M,,https://www.rtvslo.si/zdravje/novi-koronavirus/se-dva-nova-primera-stevilo-okuzenih-naraslo-na-25/516596
+18,,LJ,Kamnik,Slo (Maroko),,LJ-M,,https://www.kamnik.info/okuzeni-kamnican-je-bil-v-zdravstvenem-domu-v-stiku-z-dvema-laborantkama/
+19,,LJ,Vodice,Slo (Maroko),,LJ-M,,https://moja-dolenjska.si/sokantni-podatki-stevilo-okuzenih-strmo-narasca/
+20,,LJ,,Slo (Maroko),,LJ-M
+21,,NM,Metlika,Slo (Italija),pripravnik preko zdravnika ZD-M,NM-Z,,https://moja-dolenjska.si/sokantni-podatki-stevilo-okuzenih-strmo-narasca/
+22,,NM,Metlika,Slo (Italija),pacient od zdravnika ZD-M,NM-Z,,https://moja-dolenjska.si/sokantni-podatki-stevilo-okuzenih-strmo-narasca/
+23,,NM,Metlika,Slo (Italija),zaposleni 1 DSO Metlika,NM-Z,,https://www.24ur.com/novice/slovenija/ukc-maribor-na-severovzhodu-drzave-imamo-dva-nova-primera-okuzbe.html
+24,,NM,Metlika,Slo (Italija),zaposleni 2 DSO Metlika,NM-Z,,https://www.24ur.com/novice/slovenija/ukc-maribor-na-severovzhodu-drzave-imamo-dva-nova-primera-okuzbe.html
+25,,NM,Metlika,Slo (Italija),zaposleni 3 DSO Metlika,NM-Z,,https://www.24ur.com/novice/slovenija/ukc-maribor-na-severovzhodu-drzave-imamo-dva-nova-primera-okuzbe.html
+26,,LJ,,Maroko (Italija),,LJ-M,,https://twitter.com/vladaRS/status/1238820634534256640
+27,,LJ,,Maroko (Italija),,LJ-M,,https://twitter.com/vladaRS/status/1238820634534256640
+28,,LJ,,Maroko (Italija),,LJ-M,,https://twitter.com/vladaRS/status/1238820634534256640
+29,,LJ
+30,,MS,Lenart,Italija,zdravnik B-MS iz Lenarta,MS-Z,,https://www.prlekija-on.net/lokalno/23873/prva-primera-okuzbe-s-koronavirusom-tudi-v-murski-soboti.html
+31,,MS,Lenart,Italija,zdravnik B-MS iz Lenarta,MS-Z,,https://www.prlekija-on.net/lokalno/23873/prva-primera-okuzbe-s-koronavirusom-tudi-v-murski-soboti.html
+32,,PO,Postojna,Italija ,"smučanje v IT, stiki z vzgojiteljicami",,,https://www.primorske.si/primorska/srednja-primorska/trije-okuzeni-na-postojnskem-in-pivskem
+33,,PO,Postojna,Slo (Ljubljana),poslovni sestanek v LJ,,,https://www.primorske.si/primorska/srednja-primorska/trije-okuzeni-na-postojnskem-in-pivskem
+34,,NM,Metlika,Slo (Italija),"moški, 81 let, stanovalec DSO Metlika",NM-Z,smrt,https://www.rtvslo.si/zdravje/novi-koronavirus/prva-smrtna-zrtev-novega-koronavirusa-v-sloveniji/517170
+35,,NM,Metlika,Slo (Italija),stanovalec 2 DSO Metlika,NM-Z,,https://www.24ur.com/novice/slovenija/ukc-maribor-na-severovzhodu-drzave-imamo-dva-nova-primera-okuzbe.html
+36,,LJ,Kamnik,Italija ,"učiteljica, OŠ Kamnik",,,https://www.rtvslo.si/zdravje/novi-koronavirus/okuzena-tudi-uciteljica-na-osnovni-soli-smarje-pri-jelsah-kjer-v-cetrtek-in-petek-pouka-ne-bo/516820
+37,,LJ,,tujina,stomatološka UKC-LJ,,,https://www.24ur.com/novice/slovenija/ukc-maribor-na-severovzhodu-drzave-imamo-dva-nova-primera-okuzbe.html
+38,,LJ,,,nevrologija UKC-LJ,,,https://www.24ur.com/novice/slovenija/ukc-maribor-na-severovzhodu-drzave-imamo-dva-nova-primera-okuzbe.html
+39,,LJ,,Slo (Maroko),"ginekologija UKC-LJ, 1",LJ-M,,https://www.24ur.com/novice/slovenija/ukc-maribor-na-severovzhodu-drzave-imamo-dva-nova-primera-okuzbe.html
+40,,LJ,,Slo (Maroko),"ginekologija UKC-LJ, 2",LJ-M,,https://www.24ur.com/novice/slovenija/ukc-maribor-na-severovzhodu-drzave-imamo-dva-nova-primera-okuzbe.html
+41,,LJ,,Slo (Maroko),"ginekologija UKC-LJ, 3",LJ-M,,https://www.24ur.com/novice/slovenija/ukc-maribor-na-severovzhodu-drzave-imamo-dva-nova-primera-okuzbe.html
+42,,LJ,,Slo (Maroko),"ginekologija UKC-LJ, 4",LJ-M,,https://www.24ur.com/novice/slovenija/ukc-maribor-na-severovzhodu-drzave-imamo-dva-nova-primera-okuzbe.html
+43,,LJ,,Slo (Maroko),,LJ-M,,NUJZ 12.3. 12h
+44,,LJ,,Slo (Maroko),,LJ-M,,NUJZ 12.3. 12h
+45,,LJ,,Slo (Maroko),,LJ-M,,NUJZ 12.3. 12h
+46,,LJ,,Slo (Maroko),,LJ-M,,NUJZ 12.3. 12h
+47,,LJ,,Slo (ZDA),petkov žur ob magisteriju,LJ-Ž,,https://twitter.com/tasosedova/status/1238118220558749696
+48,,LJ,,Slo (ZDA),petkov žur ob magisteriju,LJ-Ž,,https://twitter.com/tasosedova/status/1238118220558749696
+49,,LJ,,Slo (ZDA),petkov žur ob magisteriju,LJ-Ž,,https://twitter.com/tasosedova/status/1238118220558749696
+50,,LJ,,Slo (ZDA),petkov žur ob magisteriju,LJ-Ž,,https://twitter.com/tasosedova/status/1238118220558749696
+51,,LJ,,Slo (ZDA),petkov žur ob magisteriju,LJ-Ž,,https://twitter.com/tasosedova/status/1238118220558749696
+52,,LJ,,Slo (ZDA),petkov žur ob magisteriju,LJ-Ž,,https://twitter.com/tasosedova/status/1238118220558749696
+53,,LJ,,Slo (ZDA),petkov žur ob magisteriju,LJ-Ž,,https://twitter.com/tasosedova/status/1238118220558749696
+54,,LJ,,Slo (ZDA),petkov žur ob magisteriju,LJ-Ž,,https://twitter.com/tasosedova/status/1238118220558749696
+55,,LJ,,Slo (ZDA),"petkov žur ob magisteriju, odbojkar?",LJ-Ž,,http://www.ach-volley.si/uradno-obvestilo-glede-okuzbe-s-koronavirusom-v-klubu-ach-volley-ljubljana-12-03-2020.html
+56,,MB,,,zaposleni v Perutnini Ptuj,,,https://www.rtvslo.si/zdravje/novi-koronavirus/sabeder-96-potrjenih-primerov-v-sloveniji-razglasili-epidemijo/516916
+57,,MB
+58,,CE,Šmarje pri Jelšah,Italija,"učiteljica, OŠ Šmarje pri Jelšah",CE-U,,https://twitter.com/tasosedova/status/1238175482979536898
+59,,CE,Šmarje pri Jelšah,Slo (Italija),"učenec, OŠ Šmarje pri Jelšah",CE-U,,https://siol.net/novice/slovenija/zapira-se-tudi-osnovna-sola-v-smarju-pri-jelsah-520632
+60,,NG,,Italija,"zdravnik, starejši B-NG Šempeter",,,https://www.primorske.si/primorska/goriska/prva-okuzba-s-koronavirusom-na-goriskem
+61,,KR,Jesenice,Italija,hokejist HK Jesenice,,,https://siol.net/sportal/hokej/hdd-sij-acroni-jesenice-koronavirus-okuzba-520638
+62,,MS,Lendava,,,,,https://www.rtvslo.si/zdravje/novi-koronavirus/sabeder-sirjenje-virusa-pocasi-prehaja-v-drugo-fazo-verjetno-bo-treba-aktivirati-drzavni-nacrt/516916
+63,,NM,Metlika,Slo (Italija),stanovalec 3 DSO Metlika,NM-Z,,https://moja-dolenjska.si/v-domu-starejsih-obcanov-metlika-ze-8-okuzenih
+64,,NM,Metlika,Slo (Italija),zaposleni 4 DSO Metlika,NM-Z,,https://moja-dolenjska.si/v-domu-starejsih-obcanov-metlika-ze-8-okuzenih
+65,,NM,Metlika,Slo (Italija),zaposleni 5 DSO Metlika,NM-Z,,https://moja-dolenjska.si/v-domu-starejsih-obcanov-metlika-ze-8-okuzenih
+66,,NM,Metlika,Slo (Italija),stanovalec 4 DSO Metlika,NM-Z,,http://www.dso-metlika.si/obvestilo-v-zvezi-s-koronavirusom-3/
+67,,NM,Metlika,Slo (Italija),,NM-Z,,https://moja-dolenjska.si/rast-okuzenih-72-odstotna-trije-so-v-kriticnem-stanju/
+68,,NM,Kočevje,,,,,https://www.nadlani.si/novice/v-sloveniji-ze-141-okuzenih-novi-primeri-tudi-na-dolenjskem/
+69,,NM,Kočevje,,,,,https://www.nadlani.si/novice/v-sloveniji-ze-141-okuzenih-novi-primeri-tudi-na-dolenjskem/
+70,,NM,Kočevje,,,,,https://www.nadlani.si/novice/v-sloveniji-ze-141-okuzenih-novi-primeri-tudi-na-dolenjskem/
+71,,CE,Šentjur,Slo (Italija),starš OŠ Šmarje pri Jelšah,CE-U,,https://kozjansko.info/2020/03/koronavirus-dosegel-sentjur/
+72,,MB,,Slo (Italija),od MB farmacevta,MB-F,,NUJZ 12.3. 18h
+73,,MB,,Slo (Italija),od MB farmacevta,MB-F,,https://twitter.com/vladaRS/status/1238820634534256640
+74,,LJ,Domžale,,ženska,,,https://www.kamnik.info/prvi-primer-okuzbe-z-novim-koronavirusom-je-bil-potrjen-tudi-pri-pacientki-z-obmocja-domzal/
+75,,LJ,Kamnik,Slo (Italija),moški,,,https://www.kamnik.info/potrjena-okuzba-s-koronavirusom-pri-obcanu-kamnika-pri-katerem-ni-znan-vir-okuzbe/
+76,,LJ,,Slo (Maroko),,LJ-M,,NUJZ 12.3. 12h
+77,,LJ,,Slo (Maroko),,LJ-M,,NUJZ 12.3. 12h
+78,,LJ,,Slo (Maroko),,LJ-M,,NUJZ 12.3. 12h
+79,,LJ,,Maroko (Italija),,LJ-M,,https://twitter.com/vladaRS/status/1238820634534256640
+80,,LJ,,Maroko (Italija),,LJ-M,,https://twitter.com/vladaRS/status/1238820634534256640
+81,,LJ,,Maroko (Italija),,LJ-M,,https://twitter.com/vladaRS/status/1238820634534256640
+82,,LJ,,Maroko (Italija),,LJ-M,,https://twitter.com/vladaRS/status/1238820634534256640
+83,,LJ,,Maroko (Italija),,LJ-M,,https://twitter.com/vladaRS/status/1238820634534256640
+84,,LJ,,Slo (ZDA),petkov žur ob magisteriju,LJ-Ž,,https://twitter.com/rokhodej/status/1239246562557079554/photo/1
+85,,LJ,,Slo (ZDA),petkov žur ob magisteriju,LJ-Ž,,https://twitter.com/rokhodej/status/1239246562557079554/photo/1
+86,,LJ,,Slo (ZDA),petkov žur ob magisteriju,LJ-Ž,,https://twitter.com/rokhodej/status/1239246562557079554/photo/1
+87,,NM
+88,,NM
+89,,NM,Metlika,Slo (Italija),,NM-Z,,https://twitter.com/vladaRS/status/1238820634534256640
+90,,NM,Metlika,Slo (Italija),,NM-Z,,https://twitter.com/vladaRS/status/1238820634534256640
+91,,NM,Metlika,Slo (Italija),,NM-Z,,https://twitter.com/vladaRS/status/1238820634534256640
+92,,CE,Šmarje pri Jelšah,Slo (Italija),učenec/starš OŠ Šmarje pri Jelšah,CE-U,,https://novice.si/page/v-smarju-potrdili-ze-dve-okuzbi-s-koronavirusom-sola-zaprta-za-varstvo-poskrbeli/
+93,,CE,Šmarje pri Jelšah,Slo (Italija),učenec/starš OŠ Šmarje pri Jelšah,CE-U,,https://kozjansko.info/2020/03/v-rogaski-slatini-prvi-primer-potrjenega-koronavusa-okuzen-je-dijak-solskega-centra/
+94,,CE,Šmarje pri Jelšah,Slo (Italija),učiteljica OŠ Šmarje pri Jelšah,CE-U,,https://kozjansko.info/2020/03/v-rogaski-slatini-prvi-primer-potrjenega-koronavusa-okuzen-je-dijak-solskega-centra/
+95,,CE,Rogaška Slatina,Slo (Italija),"dijak, ČS Rogaška Slatina",CE-U,,https://kozjansko.info/2020/03/v-rogaski-slatini-prvi-primer-potrjenega-koronavusa-okuzen-je-dijak-solskega-centra/
+96,,KP
+97,,CE,Šmarje pri Jelšah,Slo (Italija),učenec OŠ Šmarje pri Jelšah 4,CE-U,,https://kozjansko.info/2020/03/v-rogaski-slatini-prvi-primer-potrjenega-koronavusa-okuzen-je-dijak-solskega-centra/
+98,,CE,Šmarje pri Jelšah,Slo (Italija),učenec OŠ Šmarje pri Jelšah 5,CE-U,,https://kozjansko.info/2020/03/v-rogaski-slatini-prvi-primer-potrjenega-koronavusa-okuzen-je-dijak-solskega-centra/
+99,,CE,Šmarje pri Jelšah,Slo (Italija),učiteljica OŠ Šmarje pri Jelšah,CE-U,,https://kozjansko.info/2020/03/v-rogaski-slatini-prvi-primer-potrjenega-koronavusa-okuzen-je-dijak-solskega-centra/
+100,,CE,Šmarje pri Jelšah,Slo (Italija),učiteljica OŠ Šmarje pri Jelšah,CE-U,,https://kozjansko.info/2020/03/v-rogaski-slatini-prvi-primer-potrjenega-koronavusa-okuzen-je-dijak-solskega-centra/
+101,,CE,Šmarje pri Jelšah,Slo (Italija),učiteljica OŠ Šmarje pri Jelšah,CE-U,,https://kozjansko.info/2020/03/v-rogaski-slatini-prvi-primer-potrjenega-koronavusa-okuzen-je-dijak-solskega-centra/
+102,,CE,Šmarje pri Jelšah,Slo (Italija),učiteljica OŠ Šmarje pri Jelšah,CE-U,,https://kozjansko.info/2020/03/v-smarju-krepko-cez-deset-uradno-pozitivnih-virus-se-hitro-siri/
+103,,CE,Šmarje pri Jelšah,Slo (Italija),,CE-U,,https://twitter.com/vladaRS/status/1238820634534256640
+104,,CE,Šmarje pri Jelšah,Slo (Italija),,CE-U,,https://twitter.com/vladaRS/status/1238820634534256640
+105,,CE,Šmarje pri Jelšah,Slo (Italija),,CE-U,,https://twitter.com/vladaRS/status/1238820634534256640
+106,,NM,Metlika,Slo (Italija),stanovalec 5 DSO Metlika,NM-Z,,https://www.rtvslo.si/zdravje/novi-koronavirus/v-domu-starejsih-v-metliki-okuzenih-sedem-stanovalcev-in-pet-zaposlenih/517170
+107,,NM,Metlika,Slo (Italija),stanovalec 6 DSO Metlika,NM-Z,,https://www.rtvslo.si/zdravje/novi-koronavirus/v-domu-starejsih-v-metliki-okuzenih-sedem-stanovalcev-in-pet-zaposlenih/517170
+108,,NM,Metlika,Slo (Italija),stanovalec 7 DSO Metlika,NM-Z,,https://www.rtvslo.si/zdravje/novi-koronavirus/v-domu-starejsih-v-metliki-okuzenih-sedem-stanovalcev-in-pet-zaposlenih/517170
+109,,NM,Metlika,Slo (Italija),,NM-Z,,https://twitter.com/vladaRS/status/1238820634534256640
+110,,NM,Metlika,Slo (Italija),,NM-Z,,https://twitter.com/vladaRS/status/1238820634534256640
+111,,MB,,Slo (Italija),od MB farmacevta,MB-F,,https://twitter.com/vladaRS/status/1238820634534256640
+112,,MB
+113,,MS
+114,,KP,Koper,,"moški, zaposlen v MO Koper",,,https://www.primorske.si/primorska/istra/prvi-potrjen-primer-okuzbe-s-koronavirusom-v-koprs
+115,,NG,Nova Gorica,,ženska iz podjetja Mahle,,,https://www.primorske.si/primorska/goriska/nov-primer-na-goriskem-zbolela-usluzbenka-tovarne
+116,,KK,Brežice?,,,,,https://www.eposavje.com/ostale-novice/koronavirus-zbirne-informacije-petek-13-marec-2020
+117,,T,,,francoski državljan,,,NIJZ ob 14h
+118,,T
+119,,LJ,,Maroko (Italija),,LJ-M,,https://twitter.com/vladaRS/status/1238820634534256640
+120,,LJ,,Maroko (Italija),,LJ-M,,https://twitter.com/vladaRS/status/1238820634534256640
+121,,LJ,,Maroko (Italija),,LJ-M,,https://twitter.com/vladaRS/status/1238820634534256640
+122,,LJ,,Maroko (Italija),,LJ-M,,https://twitter.com/vladaRS/status/1238820634534256640
+123,,LJ,,Maroko (Italija),,LJ-M,,https://twitter.com/vladaRS/status/1238820634534256640
+124,,LJ,,Maroko (Italija),,LJ-M,,https://twitter.com/vladaRS/status/1238820634534256640
+125,,LJ,,Maroko (Italija),,LJ-M,,https://twitter.com/vladaRS/status/1238820634534256640
+126,,LJ,,Maroko (Italija),,LJ-M,,https://twitter.com/vladaRS/status/1238820634534256640
+127,,LJ,,Maroko (Italija),,LJ-M,,https://twitter.com/vladaRS/status/1238820634534256640
+128,,LJ,,Maroko (Italija),,LJ-M,,https://twitter.com/vladaRS/status/1238820634534256640
+129,,LJ,,Slo (ZDA),petkov žur ob magisteriju,LJ-Ž,,https://twitter.com/rokhodej/status/1239246562557079554/photo/1
+130,,LJ,,Slo (ZDA),petkov žur ob magisteriju,LJ-Ž,,https://twitter.com/rokhodej/status/1239246562557079554/photo/1
+131,,LJ,,Slo (ZDA),petkov žur ob magisteriju,LJ-Ž,,https://twitter.com/rokhodej/status/1239246562557079554/photo/1
+132,,LJ,,Slo (ZDA),petkov žur ob magisteriju,LJ-Ž,,https://twitter.com/rokhodej/status/1239246562557079554/photo/1
+133,,CE,Šmarje pri Jelšah,Slo (Italija),,CE-U,,https://twitter.com/vladaRS/status/1238820634534256640
+134,,CE,Šmarje pri Jelšah,Slo (Italija),,CE-U,,https://twitter.com/vladaRS/status/1238820634534256640
+135,,CE,Grobelno,Slo (Italija),,CE-U,,https://twitter.com/vladaRS/status/1238820634534256640
+136,,CE,Podplat,Slo (Italija),,CE-U,,https://twitter.com/vladaRS/status/1238820634534256640
+137,,CE,Podplat,Slo (Italija),,CE-U,,https://twitter.com/vladaRS/status/1238820634534256640
+138,,MS
+139,,NM
+140,,LJ,,,"potnik Turkish TK1061, iz 10.3.",,,https://www.nijz.si/sl/pojav-novega-koronavirusa-2019-ncov
+141,,KR,Lesce,,"učiteljica OŠ Lesce, bila na bolniški",,,http://www.gorenjskiglas.si/article/20200314/C/200319894/1008/okuzba-z-virusom-potrjena-tudi-v-leski-soli
+142,,NM,Trebnje,,starš od otroka v vrtcu Kekec,,,https://moja-dolenjska.si/koronavirus-kaj-sporocajo-iz-trebnjega/
+143,,NM
+144,,NM
+145,,NM
+146,,NM
+147,,NM
+148,,NM
+149,,NM
+150,,CE,Rogaška Slatina,Slo (Italija),učenec OŠ Rogaška Slatina,CE-U,,https://kozjansko.info/2020/03/potrjena-okuzba-s-covid-19-tudi-pri-ucencu-ii-os-rogaska-slatina/
+151,,CE,Šmarje pri Jelšah,Slo (Italija),,CE-U,,https://twitter.com/vladaRS/status/1238820634534256640
+152,,CE,Podplat,Slo (Italija),,CE-U,,https://twitter.com/vladaRS/status/1238820634534256640
+153,,CE,Grobelno,Slo (Italija),,CE-U,,https://twitter.com/vladaRS/status/1238820634534256640
+154,,CE,Grobelno,Slo (Italija),,CE-U,,https://twitter.com/vladaRS/status/1238820634534256640
+155,,NM
+156,,KP,Lucija,,medicinska sestra ZD Lucija,,,https://www.regionalobala.si/novica/nova-okuzba-na-obali-pozitivna-na-testu-je-bila-medicinska-sestra-iz-zd-lucija
+157,,PO,Pivka,,,,,https://www.primorske.si/primorska/srednja-primorska/prva-okuzba-na-pivskem
+158,,LJ,,Slo (ZDA),petkov žur ob magisteriju,LJ-Ž,,https://twitter.com/rokhodej/status/1239246562557079554/photo/1
+159,,KR
+160,,KR
+161,,KR
+162,,KR
+163,,KR
+164,,MB
+165,,MB
+166,,MB
+167,,MB
+168,,NG,Tolmin,,,,,https://www.primorske.si/primorska/goriska/v-tolminu-tretji-primer-okuzbe-na-goriskem
+169,,MB,,,,,,https://www.koroskenovice.si/novice/spremljamo-stevilo-okuzenih-narasca-prvi-primer-na-koroskem/
+170,,LJ,,Maroko (Italija),,LJ-M,,https://twitter.com/vladaRS/status/1238820634534256640
+171,,LJ,,Maroko (Italija),,LJ-M,,https://twitter.com/vladaRS/status/1238820634534256640
+172,,LJ,,Maroko (Italija),,LJ-M,,https://twitter.com/vladaRS/status/1238820634534256640
+173,,LJ,,Maroko (Italija),,LJ-M,,https://twitter.com/vladaRS/status/1238820634534256640
+174,,LJ,,Maroko (Italija),,LJ-M,,https://twitter.com/vladaRS/status/1238820634534256640
+175,,LJ,,Maroko (Italija),,LJ-M,,https://twitter.com/vladaRS/status/1238820634534256640
+176,,LJ,,Maroko (Italija),,LJ-M,,https://twitter.com/vladaRS/status/1238820634534256640
+177,,LJ,,Maroko (Italija),,LJ-M,,https://twitter.com/vladaRS/status/1238820634534256640
+178,,LJ,,Maroko (Italija),,LJ-M,,https://twitter.com/vladaRS/status/1238820634534256640
+179,,LJ,,Maroko (Italija),,LJ-M,,https://twitter.com/vladaRS/status/1238820634534256640
+180,,NM
+181,,NM
+182,,KP
+183,,PO,Pivka,,"prostovoljec RK, kontrola meje",,,https://www.delo.si/novice/slovenija/s-koronavirusom-okuzena-pripadnika-rdecega-kriza-289115.html
+184,,PO,Postojna,,"prostovoljec RK, kontrola meje",,,https://www.delo.si/novice/slovenija/s-koronavirusom-okuzena-pripadnika-rdecega-kriza-289115.html
+185,,MS
+186,,MS
+187,,KR
+188,,KR
+189,,KR
+190,,SG,Slovenj Gradec,,,,,https://www.rtvslo.si/zdravje/novi-koronavirus/tonin-zelimo-krepiti-zaloge-zascitne-opreme-za-primer-velikega-povecanja-potreb/517257
+191,,MB
+192,,MB
+193,,MB
+194,,MB
+195,,CE,Rogaška Slatina,,,,,https://www.eposavje.com/ostale-novice/koronavirus-zadnje-informacije-iz-posavja-video
+196,,CE,Mozirje,,,,,https://www.eposavje.com/ostale-novice/koronavirus-zadnje-informacije-iz-posavja-video
+197,,CE,Šoštanj,,"študentka, 19 let, v trgovini",,,RTV Dnevnik 16.3. 19:15
+198,,CE,Šempeter v Savinjski dolini,,,,,https://www.eposavje.com/ostale-novice/koronavirus-zadnje-informacije-iz-posavja-video
+199,,CE,Šempeter v Savinjski dolini,,,,,https://www.eposavje.com/ostale-novice/koronavirus-zadnje-informacije-iz-posavja-video
+200,,NM
+201,,NM
+202,,NM
+203,,NM
+204,,LJ,,Slo (ZDA),petkov žur ob magisteriju,LJ-Ž,,https://twitter.com/rokhodej/status/1239246562557079554/photo/1
+205,,LJ,,Slo (ZDA),petkov žur ob magisteriju,LJ-Ž,,https://twitter.com/rokhodej/status/1239246562557079554/photo/1
+206,,LJ,,Slo (ZDA),petkov žur ob magisteriju,LJ-Ž,,https://twitter.com/rokhodej/status/1239246562557079554/photo/1
+207,,LJ,,Slo (ZDA),petkov žur ob magisteriju,LJ-Ž,,https://twitter.com/rokhodej/status/1239246562557079554/photo/1
+208,,LJ
+209,,LJ
+210,,LJ
+211,,LJ
+212,,LJ
+213,,LJ
+214,,LJ
+215,,LJ
+216,,PO,,,"prostovoljec RK, kontrola meje",,,RTV Dnevnik 16.3. 19:22
+217,,PO,,,"prostovoljec RK, kontrola meje",,,RTV Dnevnik 16.3. 19:22
+218,,CE
+219,,CE
+220,,CE,Šempeter v Savinjski dolini,,,,,https://www.eposavje.com/ostale-novice/koronavirus-zadnje-informacije-iz-posavja-video
+221,,CE,Pristava pri Mislinju,,,,,https://www.eposavje.com/ostale-novice/koronavirus-zadnje-informacije-iz-posavja-video
+222,,SG
+223,,SG
+224,,KP
+225,,KP
+226,,KP
+227,,PO,,,"prostovoljec RK, kontrola meje",,,RTV Dnevnik 16.3. 19:22
+228,,PO,,,"prostovoljec RK, kontrola meje",,,RTV Dnevnik 16.3. 19:22
+229,,PO
+230,,CE
+231,,CE
+232,,CE
+233,,MB
+234,,MB
+235,,MB
+236,,LJ
+237,,LJ
+238,,LJ
+239,,LJ
+240,,LJ
+241,,LJ
+242,,LJ
+243,,LJ
+244,,KR
+245,,KR
+246,,KR
+247,,KR
+248,,KR
+249,,T
+250,
+251,
+252,
+253,
