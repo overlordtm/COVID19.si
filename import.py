@@ -23,7 +23,7 @@ sheet = service.spreadsheets()
 
 
 def parse_date(datestr):
-    parser.isoparse(datestr[0:10]).date()
+    return parser.isoparse(datestr[0:10]).date()
 
 
 def cell_index(letter):
