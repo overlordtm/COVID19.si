@@ -12,6 +12,10 @@ CSV is easily ingested by most tools to create predictions, graphs, etc ...
 
 `/data` directory contains raw data automatically imported from Google sheet below
 
+## Webpage
+
+See README in `web` branch of this repo.
+
 
 ## Source of data
 Most of the data provided by [Luka Renko](https://twitter.com/LukaRenko)
