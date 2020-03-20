@@ -27,7 +27,7 @@ preglednica*](https://docs.google.com/spreadsheets/d/1o9DE8PEXvEOZ0yz02JsUGNhWGx
 Pokažite mi surove podatke (preglednico) ali me povežite z API-jem (JSON
 in CSV).
 
-**Zakaj? **
+## Zakaj?
 
 Pravilno zbrani podatki in transparentnost sta ključna dela vsakega
 odziva v javnem zdravju, zato je transparentna objava podatkov ključnega
@@ -40,7 +40,7 @@ Informacije v medijih in uradnih virih, iz katerih črpamo, so pogosto
 delne, nejasne in nedosledne, zaradi tega preglednica vključuje tudi
 opombe o virih in spremembah podatkov. 
 
-**Kako urejamo statistiko:**
+## Kako urejamo statistiko:
 
 Statistiko urejamo praviloma ob 14:00 s podatki iz NIJZ. Če so
 objavljeni vmesni podatki, začasno vnesemo te. Podatki po regijah in
@@ -48,7 +48,7 @@ starosti se včasih ne ujemajo s tistimi ob 14h (ker niso objavljeni
 istočasno); dopolnjujemo in preverjamo tudi z podatki, objavljenimi v
 medijih. 
 
-**Kako urejamo posamezne primere:**
+## Kako urejamo posamezne primere:
 
 Posamezne primere spremljamo iz podatkov iz tiskovne konference in objav
 medijev (link na vir).
@@ -71,18 +71,19 @@ ter zbirko [*povezav na ostale statistike, podatkovne vizualizacije in
 zanimive objave*](#4geu807pkmre) o metodah in ukrepih, ki se nanašajo na
 COVID-10 pri nas in po svetu. 
 
-<span id="anchor"></span>Dobre prakse objave podatkov
+## Dobre prakse objave podatkov
 
 Priporočila, katere podatke bi morali objavljati državni organi za javno
 zdravje in kako.
 
-<span id="anchor-1"></span>Pogoji uporabe
+## Pogoji uporabe
 
 Podatki so zbrani iz virov v javni domeni in jih lahko prosto
 uporabljate, urejate, predelujete ali vključujete v vse nekomercialne
 vsebine ob navedbi vira - "tinyurl.com/slo-covid-19".  
 Za izvoz podatkov v drugih formatih ali uporabo za vizualizacije nas
 kontaktirajte na...\_\_\_\_\_???  
+
 <span id="anchor-2"></span>
 
 <span id="anchor-3"></span>Druge statistike, vizualizacije, simulacije
