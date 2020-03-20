@@ -8,3 +8,5 @@ script:
   - python update.py
   - cat data/full.csv
   - git status
+  - git remote -v
+  - sh ci-push.sh
