@@ -13,7 +13,6 @@ cache:
 stages:
   - name: update data
   - name: build web
-  - name: deploy web
 
 jobs:
   include:
@@ -29,13 +28,10 @@ jobs:
       node_js: node
       install: yarn --frozen-lockfile
       script: yarn build
-    - stage: deploy web
       deploy:
         provider: pages
         local_dir: ./dist/
         cleanup: false
         github_token: $GITHUB_TOKEN
         keep_history: true
-        on:
-          branch: master
     
