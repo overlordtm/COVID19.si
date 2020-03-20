@@ -36,7 +36,7 @@ router.add('about', '/about', () => {
 });
 
 router.add('about', '/links', () => {
-  new StaticPage('Povezave', import('content/about.md')).render()
+  new StaticPage('Povezave', import('content/links.md')).render()
 });
 
 // Listen browser event for back navigation
