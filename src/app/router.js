@@ -28,11 +28,11 @@ router.add('viz', '/viz', () => {
 
 
 router.add('team', '/team', () => {
-  new StaticPage('Ekipa', 'https://raw.githubusercontent.com/overlordtm/COVID19.si/master/src/content/team.md').render()
+  new StaticPage('Ekipa', import('content/team.md')).render()
 });
 
 router.add('about', '/about', () => {
-  new StaticPage('O projektu', 'https://raw.githubusercontent.com/overlordtm/COVID19.si/master/src/content/about.md').render()
+  new StaticPage('O projektu', import('content/about.md')).render()
 });
 
 // Listen browser event for back navigation
