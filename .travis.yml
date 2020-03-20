@@ -26,6 +26,7 @@ jobs:
         - sh ci-push.sh
     - stage: build web
       language: node_js
+      node_js: node
       install: yarn --frozen-lockfile
       script: yarn build
     - stage: deploy web
