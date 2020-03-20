@@ -12,9 +12,29 @@ CSV is easily ingested by most tools to create predictions, graphs, etc ...
 
 `/data` directory contains raw data automatically imported from Google sheet below
 
+## Use data
+
+```
+let dataPromise = d3.csv("https://raw.githubusercontent.com/overlordtm/COVID19.si/master/data/full.csv")
+  dataPromise.then(data => {
+    console.log(data)
+  })
+```
+
 ## Webpage
 
-See README in `web` branch of this repo.
+Static page.
+
+Uses yarn (packet manager) webpack (bundler), handlebars (templates), bootstrap (style).
+
+Everything is static, datasource are CSV files in master branch of this repo. Published on github pages.
+
+```
+yarn install # install dependencies
+yarn build # build into dist
+yarn dev # run devserver and open browser
+yarn gh # publish to gh-pages branch
+```
 
 
 ## Source of data
