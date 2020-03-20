@@ -43,5 +43,5 @@ V zavihku [**Viri**](https://docs.google.com/spreadsheets/d/1N1qLMoWyi3WFGhIpPFz
 
 #### Pogoji uporabe
 
-<div>Uporaba in sodelovanje so zaželjeni: podatki so zbrani iz virov v javni domeni in jih lahko prosto uporabljate, urejate, predelujete ali vključujete v vse nekomercialne vsebine ob navedbi vira - "tinyurl.com/slo-covid-19".  
-Za izvoz podatkov v drugih formatih ali uporabo za vizualizacije nas kontaktirajte na [@lukarenko](https://twitter.com/lukarenko).</div>
+Uporaba in sodelovanje so zaželjeni: podatki so zbrani iz virov v javni domeni in jih lahko prosto uporabljate, urejate, predelujete ali vključujete v vse nekomercialne vsebine ob navedbi vira - [tinyurl.com/slo-covid-19](http://tinyurl.com/slo-covid-19).  
+Za izvoz podatkov v drugih formatih ali uporabo za vizualizacije nas kontaktirajte na [@lukarenko](https://twitter.com/lukarenko)
