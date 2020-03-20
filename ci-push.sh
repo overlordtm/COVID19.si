@@ -18,8 +18,8 @@ commit() {
 }
 
 push() {
-  git remote add origin https://${GH_TOKEN}@${REPO}.git > /dev/null 2>&1
-  git push --quiet --set-upstream origin master
+  git remote add upstream https://${GH_TOKEN}@${REPO}.git > /dev/null 2>&1
+  git push --quiet upstream master
 }
 
 setup_git
