@@ -1,4 +1,4 @@
-Sledenje SLO COVID-19 
+# Sledenje SLO COVID-19
 
 Projekt sledenja COVID zbira podatke o širjenju koronavirusa SARS-CoV-2
 oz. virusa, ki povzroča COVID-19. Vključeni so podatki o številu
