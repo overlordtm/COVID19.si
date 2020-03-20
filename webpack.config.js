@@ -11,6 +11,10 @@ module.exports = {
   mode: 'development',
   context: paths.src,
   entry: ['./app/index.js', './style/style.scss'],
+  resolve: {
+    modules: [paths.src, 'node_modules'],
+    extensions: ['.wasm', '.mjs', '.js', '.json']
+  },
   module: {
     rules: [
       {
