@@ -35,6 +35,10 @@ router.add('about', '/about', () => {
   new StaticPage('O projektu', import('content/about.md')).render()
 });
 
+router.add('about', '/links', () => {
+  new StaticPage('Povezave', import('content/about.md')).render()
+});
+
 // Listen browser event for back navigation
 window.onpopstate = function (event) {
   // dispatch current url to route
