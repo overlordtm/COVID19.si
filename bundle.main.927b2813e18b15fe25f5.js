@@ -8247,7 +8247,7 @@ eval("var Handlebars = __webpack_require__(/*! ../../node_modules/handlebars/run
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("var Handlebars = __webpack_require__(/*! ../../node_modules/handlebars/runtime.js */ \"../node_modules/handlebars/runtime.js\");\nfunction __default(obj) { return obj && (obj.__esModule ? obj[\"default\"] : obj); }\nmodule.exports = (Handlebars[\"default\"] || Handlebars).template({\"compiler\":[8,\">= 4.3.0\"],\"main\":function(container,depth0,helpers,partials,data) {\n    return \"\\n<div class=\\\"row\\\">\\n  <div class=\\\"col-12\\\">\\n    <div class=\\\"alert alert-primary\\\" role=\\\"alert\\\">\\n      V delu, lahko si ogledate ta <a\\n        href=\\\"http://milosp.info/maps/interactive/covid19svn/covid19svn.html\\\">zemljevid</a>\\n    </div>\\n  </div>\\n</div>\";\n},\"useData\":true});\n\n//# sourceURL=webpack:///./templates/map.hbs?");
+eval("var Handlebars = __webpack_require__(/*! ../../node_modules/handlebars/runtime.js */ \"../node_modules/handlebars/runtime.js\");\nfunction __default(obj) { return obj && (obj.__esModule ? obj[\"default\"] : obj); }\nmodule.exports = (Handlebars[\"default\"] || Handlebars).template({\"compiler\":[8,\">= 4.3.0\"],\"main\":function(container,depth0,helpers,partials,data) {\n    return \"\\n<div class=\\\"row\\\">\\n  <div class=\\\"col-12\\\">\\n    <div class=\\\"alert alert-primary\\\" role=\\\"alert\\\">\\n      V delu, lahko si ogledate ta <a\\n        href=\\\"https://covid19.alpaka.si/zemljevid/\\\">zemljevid</a>\\n    </div>\\n  </div>\\n</div>\";\n},\"useData\":true});\n\n//# sourceURL=webpack:///./templates/map.hbs?");
 
 /***/ }),
 
