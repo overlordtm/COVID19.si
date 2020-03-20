@@ -33,6 +33,7 @@ jobs:
         local_dir: dist
         target_branch: gh-pages
         committer_from_gh: true
+        skip_cleanup: true
         cleanup: false
         github_token: $GITHUB_TOKEN
         keep_history: true
