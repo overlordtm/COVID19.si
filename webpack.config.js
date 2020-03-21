@@ -65,6 +65,7 @@ module.exports = {
   plugins: [
     new HtmlWebpackPlugin({
       title: 'COVID-19 Slovenia',
+      desc: 'Projekt zbira podatke o širjenju koronavirusa SARS-CoV-2 oz. virusa, ki povzroča COVID-19 v Sloveniji.',
       filename: 'index.html',
       template: "index.html"
     }),
