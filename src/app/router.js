@@ -35,7 +35,7 @@ router.add('about', '/about', () => {
   new StaticPage('O projektu', import('content/about.md')).render()
 });
 
-router.add('about', '/links', () => {
+router.add('links', '/links', () => {
   new StaticPage('Povezave', import('content/links.md')).render()
 });
 
